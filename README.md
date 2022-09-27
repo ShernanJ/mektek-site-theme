@@ -23,7 +23,7 @@
 <h2 align="center">Typography</h2>
 
 <p align="center">
-<img src="./.github/img/colour-scheme.png" height="200" width="auto">
+<img src="./.github/img/typography.png" height="200" width="auto">
 </p>
 
 <h2 align="center">Desktop Prototypes</h2>
