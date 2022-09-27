@@ -8,6 +8,8 @@
 
 <br/><br/>
 
+<h2>Images</h2>
+
 <h3 align="center">Ideas</h3>
 
 <p align="center">
@@ -59,7 +61,7 @@
 
 <br/><br/><br/>
 
-<h2 align="center">Technologies</h2>
+<h2>Technologies</h2>
 
 <div align="center" id="technologies">
 
