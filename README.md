@@ -42,11 +42,20 @@
 <img src="./.github/img/mobile-prototypes.png" height="200" width="auto">
 </p>
 
-<h2 align="center">Landing Page</h2>
+<h1>Comparison</h1>
+
+<h2 align="center">Old Landing Page</h2>
+
+<p align="center">
+<img src="./.github/img/old-landing-page.png" height="200" width="auto">
+</p>
+
+<h2 align="center">Updated Landing Page</h2>
 
 <p align="center">
 <img src="./.github/img/landing-page.png" height="200" width="auto">
 </p>
+
 
 <br/><br/><br/>
 
