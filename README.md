@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.mektekinc.ca" target="_blank"><img src="./.github/img/Banner.png" height="200" width="auto" ></a>
+<a href="https://www.mektekinc.ca" target="_blank"><img src="./.github/img/Banner.png" height="300" width="auto" ></a>
 </p>
 
 <h1 align="center">MekTek Theme</h1>
