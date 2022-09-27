@@ -8,25 +8,25 @@
 
 <br/><br/>
 
-<h2 align="center">Ideas</h2>
+<h3 align="center">Ideas</h3>
 
 <p align="center">
 <img src="./.github/img/ideas.png" height="200" width="auto">
 </p>
 
-<h2 align="center">Colour Scheme</h2>
+<h3 align="center">Colour Scheme</h3>
 
 <p align="center">
 <img src="./.github/img/colour-scheme.png" height="200" width="auto">
 </p>
 
-<h2 align="center">Typography</h2>
+<h3 align="center">Typography</h3>
 
 <p align="center">
 <img src="./.github/img/typography.png" height="200" width="auto">
 </p>
 
-<h2 align="center">Desktop Prototypes</h2>
+<h3 align="center">Desktop Prototypes</h3>
 
 <p align="center">
 <a href="https://www.figma.com/file/meh8jj06VBFfplzXBFErMh/Wireframes?node-id=1%3A8">View on Figma</a>
@@ -34,7 +34,7 @@
 <img src="./.github/img/desktop-prototypes.png" height="200" width="auto">
 </p>
 
-<h2 align="center">Mobile Prototypes</h2>
+<h3 align="center">Mobile Prototypes</h3>
 
 <p align="center">
 <a href="https://www.figma.com/file/meh8jj06VBFfplzXBFErMh/Wireframes?node-id=0%3A1">View on Figma</a>
@@ -42,15 +42,15 @@
 <img src="./.github/img/mobile-prototypes.png" height="200" width="auto">
 </p>
 
-<h1>Comparison</h1>
+<h2>Comparison</h2>
 
-<h2 align="center">Old Landing Page</h2>
+<h3 align="center">Old Landing Page</h3>
 
 <p align="center">
 <img src="./.github/img/old-landing-page.png" height="200" width="auto">
 </p>
 
-<h2 align="center">Updated Landing Page</h2>
+<h3 align="center">Updated Landing Page</h3>
 
 <p align="center">
 <img src="./.github/img/landing-page.png" height="200" width="auto">
@@ -59,7 +59,7 @@
 
 <br/><br/><br/>
 
-<h1 align="center">Technologies</h1>
+<h2 align="center">Technologies</h2>
 
 <div align="center" id="technologies">
 
