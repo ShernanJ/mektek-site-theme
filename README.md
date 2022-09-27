@@ -4,7 +4,7 @@
 
 <h1 align="center">MekTek Theme</h1>
 
-<p align="center"><a href="https://www.mektekinc.ca/">https://www.mektekinc.ca/</a> <br/><br/>Developed and Designed by Shernan Javier & Richie Kong</p>
+<p align="center"><a href="https://www.mektekinc.ca/">https://www.mektekinc.ca/</a> <br/><br/>Developed and Designed by <a href="https://www.shernanjavier.com/">Shernan Javier</a> & <a href="https://www.richiekong.design/">Richie Kong</a></p>
 
 <br/><br/>
 
