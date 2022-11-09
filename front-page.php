@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <main class="landing">
   <section class="hero-container">
-    <div class="hero-banner" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(<?php echo get_template_directory_uri() . "/assets/images/Banner.png" ?>">
+    <div class="hero-banner" style="background-repeat: no-repeat; background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(<?php echo get_template_directory_uri() . "/assets/images/Banner.webp" ?>">
       <div class="hero-content fx-pop-in">
         <h1>MekTek</h1>
         <p>Engineering • Project Management • Equipment Supply</p>
@@ -28,7 +28,7 @@
     <h2>Explore MekTek</h2>
     <div class="explore-card-container">
       <a href="/about" class="explore-card">
-        <div class="explore-img-container"><img src="<?php echo get_template_directory_uri() . "/assets/images/photo2.png" ?>" /></div>
+        <div class="explore-img-container"><img src="<?php echo get_template_directory_uri() . "/assets/images/photo2.webp" ?>" /></div>
         <div>
           <h3>
             About Us
@@ -46,7 +46,7 @@
         </div>
       </a>
       <a href="/partners" class="explore-card">
-        <div class="explore-img-container"><img src="<?php echo get_template_directory_uri() . "/assets/images/photo3.png" ?>" /></div>
+        <div class="explore-img-container"><img src="<?php echo get_template_directory_uri() . "/assets/images/photo3.webp" ?>" /></div>
         <div>
           <h3>
             Associate Partners
