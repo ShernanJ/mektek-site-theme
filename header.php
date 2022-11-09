@@ -57,8 +57,8 @@
     <div class="mobile-menu-overlay">
       <?php wp_nav_menu(
         array(
-          'theme_location' => 'top-menu',
-          'menu' => 'top-menu'
+          'theme_location' => 'mobile-menu',
+          'menu' => 'mobile-menu'
         )
       ); ?>
     </div>
